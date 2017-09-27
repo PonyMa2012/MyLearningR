@@ -1,0 +1,14 @@
+# MyLearningR
+# This is a test
+install.packages("coefplot")
+
+# ---------------------------------------------------------- #
+
+require(devtools)
+install_github(repo = "coefplot", username = "jaredlander")
+
+# ---------------------------------------------------------- #
+
+install.packages("coefplot_1.1.7.zip")
+
+# ---------------------------------------------------------- #
